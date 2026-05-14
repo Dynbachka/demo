@@ -1,2 +1,2 @@
 <h1>Module 1</h1>
-<img width="1431" height="662" alt="image" src="https://github.com/user-attachments/assets/818316ca-e637-481a-b595-34c33977f20f" />
+<img width="670" height="434" alt="image" src="https://github.com/user-attachments/assets/54423714-afa4-49ff-8063-0821cd919c66" />
