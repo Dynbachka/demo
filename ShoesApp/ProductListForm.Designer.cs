@@ -31,6 +31,11 @@
             this.lblUserName = new System.Windows.Forms.Label();
             this.btnLogout = new System.Windows.Forms.Button();
             this.flpProducts = new System.Windows.Forms.FlowLayoutPanel();
+            this.txtSearch = new System.Windows.Forms.TextBox();
+            this.cboSupplier = new System.Windows.Forms.ComboBox();
+            this.btnSortAsc = new System.Windows.Forms.Button();
+            this.btnSortDesc = new System.Windows.Forms.Button();
+            this.btnAdd = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblUserName
@@ -44,7 +49,7 @@
             // 
             // btnLogout
             // 
-            this.btnLogout.Location = new System.Drawing.Point(713, 10);
+            this.btnLogout.Location = new System.Drawing.Point(780, 9);
             this.btnLogout.Name = "btnLogout";
             this.btnLogout.Size = new System.Drawing.Size(75, 23);
             this.btnLogout.TabIndex = 1;
@@ -59,17 +64,69 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.flpProducts.AutoScroll = true;
             this.flpProducts.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
-            this.flpProducts.Location = new System.Drawing.Point(12, 101);
+            this.flpProducts.Location = new System.Drawing.Point(12, 105);
             this.flpProducts.Name = "flpProducts";
-            this.flpProducts.Size = new System.Drawing.Size(776, 348);
+            this.flpProducts.Size = new System.Drawing.Size(843, 390);
             this.flpProducts.TabIndex = 2;
             this.flpProducts.WrapContents = false;
+            // 
+            // txtSearch
+            // 
+            this.txtSearch.Location = new System.Drawing.Point(12, 77);
+            this.txtSearch.Name = "txtSearch";
+            this.txtSearch.Size = new System.Drawing.Size(100, 22);
+            this.txtSearch.TabIndex = 3;
+            this.txtSearch.TextChanged += new System.EventHandler(this.txtSearch_TextChanged);
+            // 
+            // cboSupplier
+            // 
+            this.cboSupplier.FormattingEnabled = true;
+            this.cboSupplier.Location = new System.Drawing.Point(417, 75);
+            this.cboSupplier.Name = "cboSupplier";
+            this.cboSupplier.Size = new System.Drawing.Size(121, 24);
+            this.cboSupplier.TabIndex = 4;
+            this.cboSupplier.SelectedIndexChanged += new System.EventHandler(this.cboSupplier_SelectedIndexChanged);
+            // 
+            // btnSortAsc
+            // 
+            this.btnSortAsc.Location = new System.Drawing.Point(593, 77);
+            this.btnSortAsc.Name = "btnSortAsc";
+            this.btnSortAsc.Size = new System.Drawing.Size(134, 23);
+            this.btnSortAsc.TabIndex = 5;
+            this.btnSortAsc.Text = "по возсраст";
+            this.btnSortAsc.UseVisualStyleBackColor = true;
+            this.btnSortAsc.Click += new System.EventHandler(this.btnSortAsc_Click);
+            // 
+            // btnSortDesc
+            // 
+            this.btnSortDesc.Location = new System.Drawing.Point(733, 77);
+            this.btnSortDesc.Name = "btnSortDesc";
+            this.btnSortDesc.Size = new System.Drawing.Size(122, 23);
+            this.btnSortDesc.TabIndex = 6;
+            this.btnSortDesc.Text = "по убыв";
+            this.btnSortDesc.UseVisualStyleBackColor = true;
+            this.btnSortDesc.Click += new System.EventHandler(this.btnSortDesc_Click);
+            // 
+            // btnAdd
+            // 
+            this.btnAdd.Location = new System.Drawing.Point(254, 77);
+            this.btnAdd.Name = "btnAdd";
+            this.btnAdd.Size = new System.Drawing.Size(134, 23);
+            this.btnAdd.TabIndex = 7;
+            this.btnAdd.Text = "добавить товар";
+            this.btnAdd.UseVisualStyleBackColor = true;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // ProductListForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(867, 496);
+            this.Controls.Add(this.btnAdd);
+            this.Controls.Add(this.btnSortDesc);
+            this.Controls.Add(this.btnSortAsc);
+            this.Controls.Add(this.cboSupplier);
+            this.Controls.Add(this.txtSearch);
             this.Controls.Add(this.flpProducts);
             this.Controls.Add(this.btnLogout);
             this.Controls.Add(this.lblUserName);
@@ -86,5 +143,10 @@
         private System.Windows.Forms.Label lblUserName;
         private System.Windows.Forms.Button btnLogout;
         private System.Windows.Forms.FlowLayoutPanel flpProducts;
+        private System.Windows.Forms.TextBox txtSearch;
+        private System.Windows.Forms.ComboBox cboSupplier;
+        private System.Windows.Forms.Button btnSortAsc;
+        private System.Windows.Forms.Button btnSortDesc;
+        private System.Windows.Forms.Button btnAdd;
     }
 }

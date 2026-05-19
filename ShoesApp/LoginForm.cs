@@ -30,7 +30,7 @@ namespace ShoesApp
             }
 
             DataTable result = DatabaseHelper.GetTable(
-                "SELECT Id, LastName, FirstName, MiddleName, Role FROM [User] WHERE Login=@l AND Password=@p",
+                "SELECT id, surname, f_name, s_name, role FROM users WHERE login=@l AND password=@p",
                 new SqlParameter("@l", login),
                 new SqlParameter("@p", password));
 
@@ -42,11 +42,11 @@ namespace ShoesApp
             }
 
             DataRow row = result.Rows[0];
-            CurrentUser.Id = (int)row["Id"];
-            CurrentUser.LastName = row["LastName"].ToString();
-            CurrentUser.FirstName = row["FirstName"].ToString();
-            CurrentUser.MiddleName = row["MiddleName"] == DBNull.Value ? "" : row["MiddleName"].ToString();
-            CurrentUser.Role = row["Role"].ToString();
+            CurrentUser.Id = (int)row["id"];
+            CurrentUser.LastName = row["surname"].ToString();
+            CurrentUser.FirstName = row["f_name"].ToString();
+            CurrentUser.MiddleName = row["s_name"] == DBNull.Value ? "" : row["s_name"].ToString();
+            CurrentUser.Role = row["role"].ToString();
 
             new ProductListForm().Show();
             this.Hide();

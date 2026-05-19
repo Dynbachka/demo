@@ -83,3 +83,4 @@ C:\Users\sllyyra\source\repos\ShoesApp\ShoesApp\bin\Debug\zh-Hant\Microsoft.Data
 C:\Users\sllyyra\source\repos\ShoesApp\ShoesApp\obj\Debug\ShoesApp.csproj.Up2Date
 C:\Users\sllyyra\source\repos\ShoesApp\ShoesApp\obj\Debug\ShoesApp.exe
 C:\Users\sllyyra\source\repos\ShoesApp\ShoesApp\obj\Debug\ShoesApp.pdb
+C:\Users\sllyyra\source\repos\ShoesAPP\ShoesApp\obj\Debug\ShoesApp.ProductEditForm.resources

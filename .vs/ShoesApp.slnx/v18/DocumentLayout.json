@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|c:\\users\\sllyyra\\source\\repos\\shoesapp\\shoesapp\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\shoesapp\\productlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\productlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|c:\\users\\sllyyra\\source\\repos\\shoesapp\\shoesapp\\productlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\shoesapp\\producteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\producteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\shoesapp\\producteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\producteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\shoesapp\\productlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\productlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|c:\\users\\sllyyra\\source\\repos\\shoesapp\\shoesapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\shoesapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\shoesapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|c:\\users\\sllyyra\\source\\repos\\shoesapp\\shoesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|c:\\users\\sllyyra\\source\\repos\\shoesapp\\shoesapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|c:\\users\\sllyyra\\source\\repos\\shoesapp\\shoesapp\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\shoesapp\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|c:\\users\\sllyyra\\source\\repos\\shoesapp\\shoesapp\\productlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\productlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|c:\\users\\sllyyra\\source\\repos\\shoesapp\\shoesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\shoesapp\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA404F8-8B1F-4AF5-B3D5-A3089F0E17F7}|ShoesApp\\ShoesApp.csproj|solutionrelative:shoesapp\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,63 +57,84 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\ProductEditForm.cs",
+              "RelativeDocumentMoniker": "ShoesApp\\ProductEditForm.cs",
+              "ToolTip": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\ProductEditForm.cs",
+              "RelativeToolTip": "ShoesApp\\ProductEditForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T16:39:00.925Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "ProductEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\ProductEditForm.cs",
+              "RelativeDocumentMoniker": "ShoesApp\\ProductEditForm.cs",
+              "ToolTip": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\ProductEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ShoesApp\\ProductEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T16:36:37.965Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ProductListForm.cs",
               "DocumentMoniker": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\ProductListForm.cs",
               "RelativeDocumentMoniker": "ShoesApp\\ProductListForm.cs",
-              "ToolTip": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\ProductListForm.cs",
-              "RelativeToolTip": "ShoesApp\\ProductListForm.cs",
-              "ViewState": "AgIAALkAAAAAAAAAAAAmwMIAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\ProductListForm.cs*",
+              "RelativeToolTip": "ShoesApp\\ProductListForm.cs*",
+              "ViewState": "AgIAAIIAAAAAAAAAAADwv54AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T22:19:01.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProductListForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\ProductListForm.cs",
               "RelativeDocumentMoniker": "ShoesApp\\ProductListForm.cs",
-              "ToolTip": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\ProductListForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "ShoesApp\\ProductListForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\ProductListForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "ShoesApp\\ProductListForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T21:51:03.13Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\LoginForm.cs",
               "RelativeDocumentMoniker": "ShoesApp\\LoginForm.cs",
               "ToolTip": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\LoginForm.cs",
               "RelativeToolTip": "ShoesApp\\LoginForm.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwDcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T21:49:12.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\Program.cs",
               "RelativeDocumentMoniker": "ShoesApp\\Program.cs",
               "ToolTip": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\Program.cs",
               "RelativeToolTip": "ShoesApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T21:32:14.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\LoginForm.cs",
               "RelativeDocumentMoniker": "ShoesApp\\LoginForm.cs",
@@ -121,41 +146,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CurrentUser.cs",
               "DocumentMoniker": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\CurrentUser.cs",
               "RelativeDocumentMoniker": "ShoesApp\\CurrentUser.cs",
               "ToolTip": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\CurrentUser.cs",
               "RelativeToolTip": "ShoesApp\\CurrentUser.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T21:31:27.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T21:31:27.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "DataBaseHelper.cs",
               "DocumentMoniker": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\DataBaseHelper.cs",
               "RelativeDocumentMoniker": "ShoesApp\\DataBaseHelper.cs",
               "ToolTip": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\DataBaseHelper.cs",
               "RelativeToolTip": "ShoesApp\\DataBaseHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T21:16:01.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\Form1.cs",
-              "RelativeDocumentMoniker": "ShoesApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\sllyyra\\source\\repos\\ShoesApp\\ShoesApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "ShoesApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T21:03:22.261Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2026-05-14T21:16:01.228Z"
             }
           ]
         }
